@@ -1,3 +1,5 @@
+#This script does the same thing as the obabel CLI conmmand in the readme file but keeps ligand names
+
 import os
 import zipfile
 from openbabel import openbabel, pybel
